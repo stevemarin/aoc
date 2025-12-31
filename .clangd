@@ -1,0 +1,7 @@
+If:
+  PathMatch: .*\.c
+  
+CompileFlags:
+  Add: ["-std=c2y"]
+  Compiler: gcc
+  
